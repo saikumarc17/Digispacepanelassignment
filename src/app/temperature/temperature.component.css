@@ -1,0 +1,18 @@
+.circle-bg{
+    background-color: #5448c8;
+    font-size: 40px;
+    font-weight: 600;
+}
+.panelvalue{
+font-size: 30px;
+font-weight: 700;
+color: #999999;
+width: 100px;
+}
+small{
+    font-size: 18px;
+}
+
+.circle-bg small{
+    font-size: 22px;
+}
